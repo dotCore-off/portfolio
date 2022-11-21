@@ -1,0 +1,4 @@
+# Production files to ignore
+config.json
+node_modules/**
+dist/**
